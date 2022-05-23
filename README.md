@@ -1,2 +1,2 @@
-20223149 seonwoo
+seonwoo 20223149
 Kookmin Univ. SW
